@@ -6,42 +6,26 @@
 		<a href="/">Accueil</a>
 	</div>
 
-{% if page.url == '/demarche.html' or page.url == '/gratuite.html' or page.url == '/ressources.html' or page.url == '/la-valse-du-lion.html' %}
+{% if page.url == '/jeuner.html' %}
 	<div class="header-nav-active">
 {% else %}
 	<div class="header-nav-passive">
 {% endif %}
-		<a href="/demarche.html">Vision</a>
+		<a href="/jeuner.html">Jeûner</a>
 	</div>
 
-{% if page.url == '/individus.html' or page.url == '/stages.html' or page.url == '/groupes-et-organisations.html' or page.url == '/spectacles-et-conferences.html' %}
+{% if page.url == '/rencontres.html' %}
 	<div class="header-nav-active">
 {% else %}
 	<div class="header-nav-passive">
 {% endif %}
-		<a href="/individus.html">Actions</a>
+		<a href="/rencontres.html">Rencontres</a>
 	</div>
 
-{% if page.nature == "post" or page.url == '/blog.html' %}
+{% if page.url == '/qui.html' %}
 	<div class="header-nav-active">
 {% else %}
 	<div class="header-nav-passive">
 {% endif %}
-		<a href="/blog.html">Blog</a>
-	</div>
-
-{% if page.url == '/leo-matteudi.html' or page.url == '/complices.html' %}
-	<div class="header-nav-active">
-{% else %}
-	<div class="header-nav-passive">
-{% endif %}
-		<a href="/leo-matteudi.html">Qui ?</a>
-	</div>
-
-{% if page.url == '/contact.html' %}
-	<div class="header-nav-active">
-{% else %}
-	<div class="header-nav-passive">
-{% endif %}
-		<a href="/contact.html">Contact</a>
+		<a href="/qui.html">Qui ?</a>
 	</div>

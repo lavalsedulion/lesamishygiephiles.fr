@@ -1,0 +1,41 @@
+/* IMAGES ************************************************/
+
+#div-portrait-leo {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#portrait-leo {
+	height: 220px;
+	border-radius: 10px;
+	@include mobile {
+		height: 46vw;
+		max-height: 180px;
+	}
+}
+
+.portraits {
+	float: left;
+	height: 213px;
+	border-radius: 10px;
+	margin-top: 4px;
+	margin-right: 10px;
+	@include mobile {
+		float: none;
+		margin-right: 0;
+	}
+}
+
+.div-photos {
+	margin: 10px 0px 15px 0px;
+	text-align: left;
+}
+
+.photos {
+	height: 300px;
+	border-radius: 10px;
+	@include mobile {
+		height: 41vw;
+		max-height: 302px;
+	}
+}
