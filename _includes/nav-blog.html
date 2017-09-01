@@ -1,0 +1,23 @@
+{% if page.url == "/blog.html" %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/blog.html">Tout</a>
+	</div>
+
+{% if page.url == "/videos.html" %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/videos.html">Vidéos</a>
+	</div>
+
+{% if page.url == "/textes.html" %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/textes.html">Textes</a>
+	</div>

@@ -1,0 +1,79 @@
+/* VARIABLES ***********************************************************/
+
+$max_width: 750px;
+@mixin mobile {@media screen and (max-width: $max_width) {@content;}}
+
+$ad: #1A5276; /* bleu foncé*/
+$al: #3D6B9F; /* bleu clair */
+$bl: #F7D358; /* jaune clair */
+$w: #EEE; /* white */
+$b: #111; /* black */
+
+/* header & footer*/
+$ca_bg: $ad;
+$ca_font: $w;
+$ca_title: $w;
+$ca_linkactive: $bl;
+$ca_buttonpassive_bg: $w;
+$ca_buttonpassive_font: $ad;
+$ca_buttonactive_bg: $bl;
+$ca_buttonactive_font: $b;
+
+/* aside*/
+$cb_bg: $al;
+$cb_font: $w;
+$cb_title: $bl;
+$cb_linkactive: $bl;
+$cb_buttonpassive_bg: $ad;
+$cb_buttonpassive_font: $w;
+$cb_buttonactive_bg: $w;
+$cb_buttonactive_font: $b;
+
+/* main */
+$cc_bg: $bl;
+$cc_font: $b;
+$cc_title1: $ad;
+$cc_title2: $w;
+$cc_title2_bg: $ad;
+$cc_linkpassive: $ad;
+$cc_linkactive: $ad;
+
+/* main - blockquotes */
+$cd_bg: #D9C485;
+$cd_font: $b;
+$cd_border: #C8B374;
+$cd_title: $ad;
+$cd_linkpassive: $ad;
+$cd_linkactive: $ad;
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,900');
+$font1: 'Lato', 'arial', sans-serif;
+$font2: 'Lato', 'arial', sans-serif;
+
+/* BASES ***********************************************************/
+
+body {
+	background-color: $b;
+	font-family: $font1;
+	font-weight: 300;
+}
+
+strong {
+	font-weight: 400;
+}
+
+h1, h2, h3 {
+	font-family: $font2;
+	font-weight: 900;
+}
+
+.block {
+	max-width: $max_width;
+	margin: auto auto;
+}
+
+.hide {
+	@include mobile {
+		display: none;
+	}
+}

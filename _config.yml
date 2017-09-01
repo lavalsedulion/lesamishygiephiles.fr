@@ -1,0 +1,47 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+#
+# Do not use tabs, but spaces instead !
+
+# Site settings
+url: "http://www.lesamishygiephiles.fr"
+baseurl: ""
+title: "Les Amis Hygiéphiles"
+email: "con<!--M-->tact<!--M-->@<!--M-->les<!--M-->amis<!--M-->hygié<!--M-->philes<!--M-->.<!--M-->fr"
+phone: "0<!--M-->7.8<!--M-->1.5<!--M-->8.5<!--M-->2.4<!--M-->7"
+newsletter: "https://tinyletter.com/lesamishygiephiles"
+
+# Github-pages
+kramdown:
+  input: GFM
+  hard_wrap: false
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed

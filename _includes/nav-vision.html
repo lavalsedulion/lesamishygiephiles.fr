@@ -1,0 +1,31 @@
+{% if page.url contains 'demarche' %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/demarche.html">Démarche</a>
+	</div>
+	
+{% if page.url contains 'gratuite' %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/gratuite.html">Gratuité</a>
+	</div>
+
+{% if page.url contains 'ressources' %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/ressources.html">Ressources</a>
+	</div>
+
+{% if page.url contains 'la-valse-du-lion' %}
+	<div class="aside-nav-active">
+{% else %}
+	<div class="aside-nav-passive">
+{% endif %}
+		<a href="/la-valse-du-lion.html">La Valse du Lion</a>
+	</div>

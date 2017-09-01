@@ -1,0 +1,47 @@
+{% if page.url == '/' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/">Accueil</a>
+	</div>
+
+{% if page.url == '/demarche.html' or page.url == '/gratuite.html' or page.url == '/ressources.html' or page.url == '/la-valse-du-lion.html' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/demarche.html">Vision</a>
+	</div>
+
+{% if page.url == '/individus.html' or page.url == '/stages.html' or page.url == '/groupes-et-organisations.html' or page.url == '/spectacles-et-conferences.html' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/individus.html">Actions</a>
+	</div>
+
+{% if page.nature == "post" or page.url == '/blog.html' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/blog.html">Blog</a>
+	</div>
+
+{% if page.url == '/leo-matteudi.html' or page.url == '/complices.html' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/leo-matteudi.html">Qui ?</a>
+	</div>
+
+{% if page.url == '/contact.html' %}
+	<div class="header-nav-active">
+{% else %}
+	<div class="header-nav-passive">
+{% endif %}
+		<a href="/contact.html">Contact</a>
+	</div>

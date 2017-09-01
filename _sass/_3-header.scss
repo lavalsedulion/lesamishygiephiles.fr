@@ -1,0 +1,99 @@
+/* HEADER ******************************************************/
+
+#header {
+	background-color: $ca_bg;
+	padding: 16px 8px 13px 8px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+}
+
+#header-image {
+	width: 110px;
+	margin-right: 20px
+}
+
+#header-text {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: stretch;
+	margin-top: 5px;
+}
+
+#header-sitetitle {
+	font-family: $font2;
+	font-weight: 900;
+	color: $ca_title;
+	font-size: 4.52em;
+	line-height: 0.7em;
+	text-align: center;
+	a {
+		color: $ca_title;
+		text-decoration: none;
+	}
+	a:hover, a:focus, a:active {
+		color: $ca_linkactive;
+	}
+	@include mobile {
+		font-size: 13vw;
+	}
+}
+
+#header-sitesubtitle {
+	font-family: $font2;
+	font-weight: 900;
+	color: $ca_title;
+	opacity: 0.75;
+	font-size: 1.57em;
+	letter-spacing: 0.65px;
+	line-height: 2.35em;
+	text-align: center;
+	@include mobile {
+		font-size: 4.3vw;
+	}
+}
+
+
+/* HEADER-NAV ******************************************************/
+
+#header-nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	a {
+		font-size: 1.30em;
+		padding: 6.2px 11.2px 5.3px 11.2px;
+		border-radius: 5px;
+		text-decoration: none;
+	}
+	@include mobile {
+		justify-content: center;
+		margin-top: -4px;
+		margin-bottom: -4px;
+		line-height: 2.3;
+		div:not(:first-child) {
+			margin-left: 11px;
+		}
+	}
+}
+
+.header-nav-passive {
+	a {
+		background-color: $ca_buttonpassive_bg;
+		color: $ca_buttonpassive_font;
+		opacity: 0.75;
+	}
+	a:hover, a:focus, a:active {
+		color: $ca_buttonactive_font;
+		opacity: 1;
+	}
+}
+
+.header-nav-active {
+	a {
+		background-color: $ca_buttonactive_bg;
+		color: $ca_buttonactive_font;
+	}
+}
