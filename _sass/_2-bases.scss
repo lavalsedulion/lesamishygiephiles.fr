@@ -1,20 +1,21 @@
 /* VARIABLES ***********************************************************/
 
-$max_width: 750px;
+$max_width: 850px;
 @mixin mobile {@media screen and (max-width: $max_width) {@content;}}
 
 $ad: #1A5276; /* bleu foncé*/
 $al: #3D6B9F; /* bleu clair */
 $bl: #F7D358; /* jaune clair */
+$g1: #1B5E20;
 $w: #FFF; /* white */
 $b: #111; /* black */
 
 /* header & footer*/
 $ca_bg: $w;
 $ca_font: $b;
-$ca_title: $b;
+$ca_title: $g1;
 $ca_linkactive: $bl;
-$ca_buttonpassive_bg: $w;
+$ca_buttonpassive_bg: $g1;
 $ca_buttonpassive_font: $ad;
 $ca_buttonactive_bg: $bl;
 $ca_buttonactive_font: $b;
@@ -32,7 +33,7 @@ $cb_buttonactive_font: $b;
 /* main */
 $cc_bg: $w;
 $cc_font: $b;
-$cc_title1: $ad;
+$cc_title1: $g1;
 $cc_title2: $w;
 $cc_title2_bg: $ad;
 $cc_linkpassive: $ad;
