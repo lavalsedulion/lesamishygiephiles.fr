@@ -14,20 +14,23 @@
 
 <header id="header" class="block">
 	<div id="header-sitetitle">{{ site.title }}</div>
-	<div id="header-sitesubtitle">Hygiène naturelle et pratique du jeûne</div>
+	<div id="header-sitesubtitle">Accompagnement au jeûne et à l'hygiène naturelle</div>
 	<nav id="header-nav">
 		{% if page.url == '/' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
 			{% endif %}<a href="/">Accueil</a></div>
-		{% if page.url == '/jeuner.html' %}<div class="header-nav-active">
+		{% if page.url == '/stages-de-jeune.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/jeuner.html">Jeûner</a></div>
-		{% if page.url == '/rencontres.html' %}<div class="header-nav-active">
+			{% endif %}<a href="/stages-de-jeune.html">Stages de jeûne</a></div>
+		{% if page.url == '/formation.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/rencontres.html">Rencontres</a></div>
-		{% if page.url == '/apropos.html' %}<div class="header-nav-active">
+			{% endif %}<a href="/formation.html">Formation</a></div>
+		{% if page.url == '/jeuner-chez-soi.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/apropos.html">A propos</a></div>
+			{% endif %}<a href="/jeuner-chez-soi.html">Jeûne autonome</a></div>
+		{% if page.url == '/temoignages.html' %}<div class="header-nav-active">
+			{% else %}<div class="header-nav-passive">
+			{% endif %}<a href="/temoignages.html">Témoignages</a></div>
 	</nav>
 </header>
 
@@ -36,7 +39,8 @@
 </main>
 
 <footer id="footer" class="block">
-	Contact : Evelyne Curt — {{ site.phone }} — {{ site.email }}
+    <div><form id="newsletter" action="{{ site.newsletter }}" method="post" target="popupwindow" onsubmit="window.open('{{ site.newsletter }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input id="newsletter-entry" type="text" name="email" id="tlemail" placeholder="Courriel"/><input type="hidden" value="1" name="embed"/><input id="newsletter-button" type="submit" value="Recevoir les actualités" /></form></div>
+	<div>Evelyne Curt — {{ site.phone }} — {{ site.email }} — <a href="/mentions-legales.html">Mentions légales</a></div>
 </footer>
 
 </body>

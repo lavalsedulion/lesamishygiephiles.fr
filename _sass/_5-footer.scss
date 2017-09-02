@@ -1,57 +1,32 @@
-/* FOOTER ******************************************************/
-
 #footer {
-	padding: 35px 8px 25px 8px;
+    margin-top: 50px;
+	margin-bottom: 15px;
 	background-color: $ca_bg;
-	text-align: center;
 	color: $ca_font;
-	font-size: 1em;
-	a {
-		color: $ca_linkactive;
-		text-decoration: none;
-	}
-	a:hover, a:focus, a:active {
-		color: $ca_linkactive;
-        text-decoration: underline;
-	}
+	text-align: center;
+    font-size: 1.08em;
 }
 
-#follow-container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	div:not(:first-child) {
-		margin-left: 11px;
-	}
-	a {
-		font-size: 1.3em;
-		padding: 6px 8px;
-		border-radius: 5px;
-		text-decoration: none;
-		background-color: #000;
-		color: #fff;
-		opacity: 0.50;
-		div:not(:first-child) {
-			margin-left: 11px;
-		}
-	}
-	a:hover, a:focus, a:active {
-		color: #fff;
-		opacity: 1;
-		text-decoration: none;
-	}
-	@include mobile {
-		margin-top: -11px;
-		margin-bottom: -11px;
-		line-height: 2;
-	}
+#newsletter {
+    margin-bottom: 15px;
+    font-size: 1.4em;
 }
 
-#follow-intro {
-	font-size: 1.9em;
-	font-weight: 900;
-	color: #000;
-	opacity: 0.50;
-	margin-right: 5px;
+#newsletter-entry {
+    border-radius: 2px;
+    border: 1px solid $b;
+    margin-right: 5px;
+    padding: 5px 9px;
 }
+
+#newsletter-button {
+    background-color: $cc_bp_bg;
+    color: $cc_bp_font;
+    border-radius: 2px;
+    border: 0px;
+    padding: 6px 9px;
+}
+#newsletter-button:hover, #newsletter-button:focus, #newsletter-button:active {
+		background-color: $cc_ba_bg;
+        color: $cc_ba_font;
+	}
