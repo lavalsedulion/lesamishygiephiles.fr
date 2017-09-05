@@ -1,14 +1,16 @@
 ---
 layout: base
-title: Jeûner chez soi
-permalink: /jeuner-chez-soi.html
+title: Jeûne autonome
+permalink: /jeune-autonome.html
 ---
 
-# Jeûner chez soi
+# Jeûne autonome
 
 
-## Accompagnement à distance
-Vous aimeriez jeûner chez vous en autonomie, tout en étant accompagné ? Je peux vous proposer un suivi par téléphone, à prix libre. Contactez-moi au {{ site.phone }}.
+## Accompagnement par téléphone
+Vous aimeriez jeûner chez vous en autonomie, tout en étant accompagné ?  
+Toute l'année, nous pouvons vous proposer un suivi par téléphone, à prix libre.  
+[Contactez-nous !](/contact.html)
 
 ## Jeûnons ensemble !
 

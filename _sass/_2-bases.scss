@@ -75,6 +75,12 @@ h1 {
     margin-bottom: 20px;
 }
 
+.h1-subtitle {
+    font-style: italic;
+    font-size: 1.3em;
+    margin-top: -18px;
+}
+
 h2 {
 	color: $cc_title;
 	font-size: 1.7em;
@@ -123,7 +129,7 @@ blockquote {
 	background-color: $cd_bg;
 	color: $cd_font;
 	border-radius: 3px;
-	margin: 15px 0px 5px 0px;
+	margin: 30px 0px 15px 0px;
 	padding: 15px 20px 5px 20px;
 	ul {
 		margin-left: 20px;

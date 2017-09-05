@@ -25,12 +25,15 @@
 		{% if page.url == '/formation.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
 			{% endif %}<a href="/formation.html">Formation</a></div>
-		{% if page.url == '/jeuner-chez-soi.html' %}<div class="header-nav-active">
+		{% if page.url == '/jeune-autonome.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/jeuner-chez-soi.html">Jeûne autonome</a></div>
-		{% if page.url == '/temoignages.html' %}<div class="header-nav-active">
+			{% endif %}<a href="/jeune-autonome.html">Jeûne autonome</a></div>
+		{% if page.url == '/calendrier.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/temoignages.html">Témoignages</a></div>
+			{% endif %}<a href="/calendrier.html">Calendrier</a></div>
+		{% if page.url == '/contact.html' %}<div class="header-nav-active">
+			{% else %}<div class="header-nav-passive">
+			{% endif %}<a href="/contact.html">Contact</a></div>
 	</nav>
 </header>
 
@@ -40,7 +43,7 @@
 
 <footer id="footer" class="block">
     <div><form id="newsletter" action="{{ site.newsletter }}" method="post" target="popupwindow" onsubmit="window.open('{{ site.newsletter }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input id="newsletter-entry" type="text" name="email" id="tlemail" placeholder="Courriel"/><input type="hidden" value="1" name="embed"/><input id="newsletter-button" type="submit" value="Recevoir les actualités" /></form></div>
-	<div>Evelyne Curt — {{ site.phone }} — {{ site.email }} — <a href="/mentions-legales.html">Mentions légales</a></div>
+	<div>Evelyne Curt — {{ site.tele }} — {{ site.maile }}</div>
 </footer>
 
 </body>

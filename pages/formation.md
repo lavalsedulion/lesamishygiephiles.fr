@@ -8,7 +8,7 @@ permalink: /formation.html
 
 > Ce stage (3 jours de formation théorique et pratique) a lieu quatre fois par an : cf. [Calendrier](/calendrier).
 >
-> Pour vous inscrire, écrivez-moi ({{ site.email }}) avec une description détaillée de votre projet et de votre attente.
+> Pour vous inscrire, écrivez à Evelyne ({{ site.maile }}) avec une description détaillée de votre projet et de votre attente.
 
 ## À qui s’adresse ce stage ?
 * Vous exercez déjà une activité d’accompagnement de personnes dans la pratique du jeûne hygiéniste&nbsp;: ce stage permet d’approfondir et de perfectionner votre expérience.
