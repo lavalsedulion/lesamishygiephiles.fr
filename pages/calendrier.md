@@ -13,7 +13,7 @@ permalink: /calendrier.html
 
 ## Tarifs
 Le tarif de base est indiqué par personne adulte et par semaine.  
-Une réduction est proposée pour les couples (lit double), les groupes (trois personnes et plus), les séjours longs (trois semaines et plus). Un supplément peut être démandé pour toute personne qui ne peut pas jeûner, pour la nourriture consommée et évaluée au prix coûtant. Les autres prestations (accompagnement à distance, soins particuliers) sont en tarif libre.
+Une réduction est proposée pour les couples (lit double), les groupes (trois personnes et plus), les séjours longs (trois semaines et plus). Un supplément peut être démandé pour toute personne qui ne peut pas jeûner, pour la nourriture consommée et évaluée au prix coûtant. Pour les autres prestations (accompagnement à distance, soins particuliers) le tarif est convenu ensemble.
 
 ## Paiement
 Les règlements (rencontres, stages, services...) sont possibles : en espèces, par Paypal (ak.tamari@gmail.com), par chèque à l'ordre de Evelyne Curt, par virement : Banque Postale Marseille IBAN FR86 2004 1010 0718 6186 5P03 838 – BIC PSSTFRPPLYO, et parfois par Chèques Vacances, et par Chèques Emploi Service.

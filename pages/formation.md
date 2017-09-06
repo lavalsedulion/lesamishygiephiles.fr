@@ -6,7 +6,7 @@ permalink: /formation.html
 
 # Stage de formation à l’accompagnement des personnes en jeûne
 
-> Ce stage (3 jours de formation théorique et pratique) a lieu quatre fois par an : cf. [Calendrier](/calendrier).
+> Ce stage (3 jours de formation théorique et pratique) a lieu plusieurs fois par an (cf. [Calendrier](/calendrier)) et sur demande.
 >
 > Pour vous inscrire, écrivez à Evelyne ({{ site.maile }}) avec une description détaillée de votre projet et de votre attente.
 

@@ -17,7 +17,7 @@ Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.
 		<li><strong>Téléphone : {{ site.tele }}</strong></li>
 		<li><strong>Courriel : {{ site.maile }}</strong></li>
 	</ul>
-	<p>Evelyne accompagne des personnes en jeûne depuis 17 ans : eau pure et repos total, suivi du demi-jeûne, en cure individuelle ou en groupe, pour des cures de toute durée et quelles que soient vos motivations personnelles, afin de venir à bout de toutes les difficultés.</p>
+	<p>Evelyne accompagne des personnes en jeûne depuis l'année 2000 : eau pure et repos total, suivi du demi-jeûne, en cure individuelle ou en groupe, pour des cures de toute durée et quelles que soient vos motivations personnelles, afin de venir à bout de toutes les difficultés.</p>
 </div>
 </div>
 
