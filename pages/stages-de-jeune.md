@@ -5,26 +5,26 @@ permalink: /stages-de-jeune.html
 ---
 
 # Stages de jeûne
-<div class="h1-subtitle">Séjours résidentiels d'un week-end à six semaines (et plus)</div>
+<div class="h1-subtitle">Séjours résidentiels d'un week-end à six semaines (et plus)</div>
 
 >### Réservations
 > **[Contactez-nous](/contact.html) par téléphone ou par courriel.**
 >
 >**Pour connaître les prochains lieux, dates et tarifs, consultez le [Calendrier](/calendrier).**
 >
->NB : avant l’inscription, il est nécessaire de vous informer — *pour cela de lire les livres d’Albert Mosséri et les documents ci-dessous* — et de se préparer. La cure se déroule sous l’entière responsabilité de chacun quant au choix des dates et de la durée, à l’aptitude à jeûner, à l’opportunité du jeûne, à tout ce qui peut survenir pendant la cure.
+>NB : avant l’inscription, il est nécessaire de vous informer — *pour cela de lire les livres d’Albert Mosséri et les documents ci-dessous* — et de se préparer. La cure se déroule sous l’entière responsabilité de chacun quant au choix des dates et de la durée, à l’aptitude à jeûner, à l’opportunité du jeûne, à tout ce qui peut survenir pendant la cure.
 
 ## Présentation
-La méthode d'Albert Mosséri permet d'adapter le jeûne à toutes les durées, tous les besoins, toutes les motivations, et de jeûner en toute sécurité et liberté.
+La méthode d'Albert Mosséri permet d'adapter le jeûne à toutes les durées, tous les besoins, toutes les motivations, et de jeûner en toute sécurité et liberté.
    
-Dans un but thérapeutique au sens large, il est conseillé en priorité de faire quelques jeûnes au repos complet, quelle que soit la durée, en appliquant la technique du jeûne suivi d'un demi-jeûne de même durée, ceci jusqu'à stabiliser l'état de santé à un niveau
-satisfaisant. Une fois les résultats souhaités obtenus, intégrer le jeûne dans sa vie quotidienne devient facile et naturel : des jeûnes intermittents en gardant son activité, ou en périodes de vacances, en pleine nature... c'est tout aussi agréable.
+Dans un but thérapeutique au sens large, il est conseillé en priorité de faire quelques jeûnes au repos complet, quelle que soit la durée, en appliquant la technique du jeûne suivi d'un demi-jeûne de même durée, ceci jusqu'à stabiliser l'état de santé à un niveau
+satisfaisant. Une fois les résultats souhaités obtenus, intégrer le jeûne dans sa vie quotidienne devient facile et naturel : des jeûnes intermittents en gardant son activité, ou en périodes de vacances, en pleine nature... c'est tout aussi agréable.
 
-L'avantage de pratiquer un jeûne au repos allongé, sans aucune stimulation externe, est de faciliter la détoxination cellulaire. Nous avons ainsi un outil de prévention incroyable pour toutes les pathologies qui sont potentiellement inscrites en nous, qui sont prévisibles, mais pas encore portées à notre connaissance. Cette libération cellulaire peut changer notre avenir.
+L'avantage de pratiquer un jeûne au repos allongé, sans aucune stimulation externe, est de faciliter la détoxination cellulaire. Nous avons ainsi un outil de prévention incroyable pour toutes les pathologies qui sont potentiellement inscrites en nous, qui sont prévisibles, mais pas encore portées à notre connaissance. Cette libération cellulaire peut changer notre avenir.
 
-Le jeûne est un outil que vous apprendrez à utiliser à votre gré, pour une régulation alimentaire, pour un repos physique et nerveux, pour être plus disponible dans un surcroît d'activité, pour vous débarrasser d'un état chronique.
+Le jeûne est un outil que vous apprendrez à utiliser à votre gré, pour une régulation alimentaire, pour un repos physique et nerveux, pour être plus disponible dans un surcroît d'activité, pour vous débarrasser d'un état chronique.
 
-Faire table rase pour repartir dans la vie avec de nouvelles cartes. Retrouver le véritable pouvoir de la vie en nous dans toute sa force. Et notre capacité de nous auto-gérer et de nous diriger.
+Faire table rase pour repartir dans la vie avec de nouvelles cartes. Retrouver le véritable pouvoir de la vie en nous dans toute sa force. Et notre capacité de nous auto-gérer et de nous diriger.
 
 > ### Documents à télécharger
 >- [Le jeûne](/static/le-jeune.pdf)
@@ -39,27 +39,27 @@ Faire table rase pour repartir dans la vie avec de nouvelles cartes. Retrouver l
 >- [Liste de soins naturels](/static/liste-de-soins-naturels.pdf)
 
 ## Le jeûne
-On appliquera les principes de l'hygiénisme, que nous expliquerons ensemble. La documentation sera disponible sur place. Je recommande particulièrement la lecture des livres de Nicole Boudreau *Jeûner pour sa santé* (en librairie) et d'Albert Mosséri *Santé radieuse par le jeûne* et *Le jeûne, meilleur remède de la nature*  (cf. *La cûre de jeûne (citations)*, à télécharger ci-dessus).
+On appliquera les principes de l'hygiénisme, que nous expliquerons ensemble. La documentation sera disponible sur place. Je recommande particulièrement la lecture des livres de Nicole Boudreau *Jeûner pour sa santé* (en librairie) et d'Albert Mosséri *Santé radieuse par le jeûne* et *Le jeûne, meilleur remède de la nature*  (cf. *La cûre de jeûne (citations)*, à télécharger ci-dessus).
 
-1 – Nous contacter pendant la préparation, le plus souvent possible, afin de déjà se connaître.
+1 – Nous contacter pendant la préparation, le plus souvent possible, afin de déjà se connaître.
 
-2 – La durée du séjour est répartie entre jeûne et demi-jeûne. Pour un séjour d'une semaine : vous commencerez par trois jours de jeûne à l'eau, suivis de trois jours de demi-jeûne.
+2 – La durée du séjour est répartie entre jeûne et demi-jeûne. Pour un séjour d'une semaine : vous commencerez par trois jours de jeûne à l'eau, suivis de trois jours de demi-jeûne.
 
-3 – Il est conseillé de faire le repos complet pendant tout le séjour, pour un maximum d'efficacité, et pour mieux ressentir le travail intérieur que déclenche le corps, dès que vous le mettez en jeûne. Vous serez amenés chacun à rentrer facilement dans votre espace de paix. Vous resterez en repos et en silence jusqu'en début d'après-midi, en observant vos rythmes.
+3 – Il est conseillé de faire le repos complet pendant tout le séjour, pour un maximum d'efficacité, et pour mieux ressentir le travail intérieur que déclenche le corps, dès que vous le mettez en jeûne. Vous serez amenés chacun à rentrer facilement dans votre espace de paix. Vous resterez en repos et en silence jusqu'en début d'après-midi, en observant vos rythmes.
 
-4 – Outre le suivi individuel, nous pouvons prévoir des réunions de partage, en début de soirée : causeries sur l'hygiénisme, le déroulement du jeûne, nos besoins et nos expériences personnelles.
+4 – Outre le suivi individuel, nous pouvons prévoir des réunions de partage, en début de soirée : causeries sur l'hygiénisme, le déroulement du jeûne, nos besoins et nos expériences personnelles.
 
 ## Le séjour
-Le premier jour, arrivez de préférence en début d'après-midi, entre 14h et 17h pour vous installer et vous préparer. Si vous arrivez tôt, vous pouvez faire une promenade à pied et visiter les alentours. Le stage commence le soir vers 18h, avec l'introduction et les réponses à toutes les questions.
+Le premier jour, arrivez de préférence en début d'après-midi, entre 14h et 17h pour vous installer et vous préparer. Si vous arrivez tôt, vous pouvez faire une promenade à pied et visiter les alentours. Le stage commence le soir vers 18h, avec l'introduction et les réponses à toutes les questions.
 
-Les trois premiers jours : jeûne complet à l'eau ; puis, pour ceux qui ont choisi de rester une semaine, passage au demi-jeûne en restant au repos pareillement les trois jours suivants.
+Les trois premiers jours : jeûne complet à l'eau ; puis, pour ceux qui ont choisi de rester une semaine, passage au demi-jeûne en restant au repos pareillement les trois jours suivants.
 
-Dernier soir, réunion pour faire le bilan du séjour, et questions sur la reprise. Dernier jour, départ entre 14h et 17h.
+Dernier soir, réunion pour faire le bilan du séjour, et questions sur la reprise. Dernier jour, départ entre 14h et 17h.
 
 ## A apporter
-Draps (en 90, 140 ou 160) ou sac de couchage, taie d'oreiller, lampe de poche, boules quies, bouillotte, linge de toilette et de table, pèse-personne, miroir de poche, vêtement chaud, pantoufles silencieuses, pyjama confortable (on peut le garder la journée), chaussettes chaudes pour la nuit, peignoir ou châle, livres sur le jeûne, bouteille vide, boîte alimentaire et couverts pour le demi-jeûne et le voyage du retour... 
+Draps (en 90, 140 ou 160) ou sac de couchage, taie d'oreiller, lampe de poche, boules quies, bouillotte, linge de toilette et de table, pèse-personne, miroir de poche, vêtement chaud, pantoufles silencieuses, pyjama confortable (on peut le garder la journée), chaussettes chaudes pour la nuit, peignoir ou châle, livres sur le jeûne, bouteille vide, boîte alimentaire et couverts pour le demi-jeûne et le voyage du retour... 
 
-Attention : ceux qui viennent en train doivent alléger les valises au maximum (pas de livres, flacons...) NB : pendant tout le séjour, nous éviterons télévision, radio... et le plus possible, téléphone, ordinateur... Ne sont pas conseillés (sauf urgence) : tisanes, bouillon, purge. Si vous venez en voiture, vous pouvez aussi amener vos provisions d'eau, ainsi que la nourriture pour le demi-jeûne.
+Attention : ceux qui viennent en train doivent alléger les valises au maximum (pas de livres, flacons...) NB : pendant tout le séjour, nous éviterons télévision, radio... et le plus possible, téléphone, ordinateur... Ne sont pas conseillés (sauf urgence) : tisanes, bouillon, purge. Si vous venez en voiture, vous pouvez aussi amener vos provisions d'eau, ainsi que la nourriture pour le demi-jeûne.
 
 >### Témoignages
 >

@@ -28,7 +28,7 @@ Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.
 		<li><strong>Téléphone : {{ site.telm }}</strong></li>
 		<li><strong>Courriel : {{ site.mailm }}</strong></li>
 	</ul>
-	<p>Hygiéniste, Marianne a suivi les formations de Thierry Casasnovas (hygiénisme, iridologie), de Désiré Mérien (santé hygiéniste), d'Evelyne Curt (accompagnement au jeûne), de Jade Allègre (argile et santé naturelle), d'Arnaud Tisserand (plasma marin).</p>
+	<p>Hygiéniste, Marianne a suivi les formations de Thierry Casasnovas (hygiénisme, iridologie), de Désiré Mérien (santé hygiéniste), d'Evelyne Curt (accompagnement au jeûne), de Jade Allègre (argile et santé naturelle), d'Arnaud Tisserand (plasma marin).</p>
 </div>
 </div>
 
