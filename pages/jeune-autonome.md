@@ -15,7 +15,7 @@ Toute l'année, nous pouvons vous proposer un suivi par téléphone (tarif conve
 ## Jeûnons ensemble !
 
 <div id="boutons">
-	<a class="bouton" https://annuel2.framapad.org/p/jeunons-ensemble"> Consulter les annonces / Déposer une annonce</a></div>
+	<a class="bouton" href="https://annuel2.framapad.org/p/jeunons-ensemble"> Consulter les annonces / Déposer une annonce</a></div>
 	
 <iframe name="embed_readwrite" src="https://annuel2.framapad.org/p/jeunons-ensemble?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 
