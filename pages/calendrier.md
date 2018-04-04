@@ -10,12 +10,12 @@ permalink: /calendrier.html
 [Mise à jour en cours.]
 
 ## Informations pratiques
-***L'accueil en chambre individuelle est possible sous réserve de disponibilité.***  
+***L'accueil en chambre individuelle est possible sous réserve de disponibilité.***  
 ***Les draps** ne sont pas fournis. Demandez si vous avez un lit en 90 ou 140.*  
-***L'eau et la nourriture du demi-jeûne** sont fournies et incluses dans le tarif.*  
-***Les jours et heures d'arrivée et de départ** sont le dimanche, de 14h à 17h.*  
-Si vous prenez du congé ou si vous venez en train, assurez-vous que les dates du séjour n'ont pas été modifiées.
-Si vous souhaitez que l'on vienne vous chercher à la gare, prévenez avant d'acheter le billet, sinon commandez un taxi.
+***L'eau et la nourriture du demi-jeûne** sont fournies et incluses dans le tarif.*  
+***Les jours et heures d'arrivée et de départ** sont le dimanche, de 14h à 17h.*  
+Si vous prenez du congé ou si vous venez en train, assurez-vous que les dates du séjour n'ont pas été modifiées.
+Si vous souhaitez que l'on vienne vous chercher à la gare, prévenez avant d'acheter le billet, sinon commandez un taxi.
 
 ## Tarif des stages
 Le tarif de base est indiqué par personne adulte et par semaine.  
