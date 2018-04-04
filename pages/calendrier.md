@@ -26,7 +26,7 @@ Si vous êtes une association (déclarée ou non), je peux animer des stages dan
 
 ## Rencontres annuelles
 Les rencontres annuelles sont une organisation bénévole et collective des Amis Hygiéphiles ; elles sont l'occasion d'expliquer tous les principes fondamentaux de l'hygiène naturelle, et de créer entre nous des liens d'amitié durables.  
-Retrouvez-nous sur notre site : [www.cytunilia.com](http://www.cytunilia.com) (pour s'inscrire : écrire à pauyel@cytunilia.com avec votre profil)
+Retrouvez-nous sur notre site : [www.cytunilia.com](http://www.cytunilia.com) (pour s'inscrire : écrire à pauyel@cytunilia.com avec votre profil).  
 L'hébergement et la nourriture sont à la charge de chacun des participants. N'apportez que de la nourriture entrant dans un menu hygiéniste.  
 
 ## Soutien à l'association
@@ -38,5 +38,5 @@ Dans certains cas, il est possible ou nécessaire de prévoir un logement indép
 ## Paiement
 Les règlements (rencontres, stages, services...) sont possibles : pour Marianne Speranza, en espèces ou en chèques, et pour Evelyne Curt, en espèces, en chèques, par Paypal (ak.tamari@gmail.com), par virement : Banque Postale Marseille IBAN FR86 2004 1010 0718 6186 5P03 838 – BIC PSSTFRPPLYO, et parfois par Chèques Vacances, et par Chèques Emploi Service.
 
-Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.
+Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.  
 Evelyne Curt.
