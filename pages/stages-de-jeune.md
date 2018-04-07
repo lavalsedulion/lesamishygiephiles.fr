@@ -8,9 +8,9 @@ permalink: /stages-de-jeune.html
 <div class="h1-subtitle">Séjours résidentiels d'un week-end à six semaines (et plus)</div>
 
 >### Réservations
-> **[Contactez-nous](/contact.html) par téléphone ou par courriel.**
+> **[Contactez-nous](/calendrier-contact.html) par téléphone ou par courriel.**
 >
->**Pour connaître les prochains lieux, dates et tarifs, consultez le [Calendrier](/calendrier).**
+>**Pour connaître les prochains lieux, dates et tarifs, consultez le [Calendrier](/calendrier-contact.html).**
 >
 >NB : avant l’inscription, il est nécessaire de vous informer — *pour cela de lire les livres d’Albert Mosséri et les documents ci-dessous* — et de se préparer. La cure se déroule sous l’entière responsabilité de chacun quant au choix des dates et de la durée, à l’aptitude à jeûner, à l’opportunité du jeûne, à tout ce qui peut survenir pendant la cure.
 

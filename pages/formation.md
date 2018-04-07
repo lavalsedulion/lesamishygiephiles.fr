@@ -6,7 +6,7 @@ permalink: /formation.html
 
 # Stage de formation à l’accompagnement des personnes en jeûne
 
-> Ce stage (3 jours de formation théorique et pratique) a lieu plusieurs fois par an (cf. [Calendrier](/calendrier)) et sur demande.
+> Ce stage (3 jours de formation théorique et pratique) a lieu plusieurs fois par an (cf. [Calendrier](/calendrier-contact.html)) et sur demande.
 >
 > Pour vous inscrire, écrivez à Evelyne ({{ site.maile }}) avec une description détaillée de votre projet et de votre attente.
 
@@ -24,4 +24,4 @@ Pour poser les notions globales, bien vivre la relation d’aide en général, e
 Pour assimiler le précieux enseignement de H.M. Shelton et d’Albert Mosséri, envisager toutes les adaptations de cette technique, dans tous ses détails et nuances, et comment l’appliquer concrètement dans toute situation.
 
 ## Un partage d’expériences vécues
-Pour clarifier toutes vos questions pratiques, ouvrir toutes les possibilités, apprendre à interprêter les symptômes, confronter et dépasser vos limites, entrer dans l’énergie de la transformation et s’ouvrir à l’expérience de la Vie.
+Pour clarifier toutes vos questions pratiques, ouvrir toutes les possibilités, apprendre à interpréter les symptômes, confronter et dépasser vos limites, entrer dans l’énergie de la transformation et s’ouvrir à l’expérience de la Vie.

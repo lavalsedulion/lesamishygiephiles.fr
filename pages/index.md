@@ -16,15 +16,14 @@ Les émotions n’existent pas, nous possédons le Bonheur.*
 ## Stages et activités proposés
 
 <div id="boutons">
-	<a class="bouton" href="/calendrier.html">Consulter le calendrier</a>
-	<a class="bouton" href="/contact.html">Contactez-nous</a>
+	<a class="bouton" href="/calendrier-contact.html">Calendrier / Infos pratiques / Contact</a>
 </div>
 
 - **[Stages de jeûne](/stages-de-jeune.html)** : toute l'année, en résidentiel, d'un week-end à 6 semaines (ou plus). *Nous pratiquons la méthode d'Albert Mosséri : jeûne hydrique au repos suivi d'un demi-jeûne.*
 
 - **[Stages de formation à l'accompagnement](/formation.html)** des personnes en jeûne.
 
-- **[Rencontre annuelle](/calendrier.html)** des Amis Hygiéphiles.
+- **[Rencontre annuelle](/calendrier-contact.html)** des Amis Hygiéphiles.
 
 - **[Accompagnement par téléphone](/jeune-autonome.html)** des personnes jeûnant en autonomie + **[Service de petites annonces](/jeune-autonome.html)** pour jeûner ensemble à plusieurs.
 

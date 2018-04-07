@@ -1,10 +1,14 @@
 ---
 layout: base
-title: Contact
-permalink: /contact.html
+title: Calendrier / Contact
+permalink: /calendrier-contact.html
 ---
 
-# Contact
+# Calendrier / Contact
+
+<div id="boutons">
+	<a class="bouton" href="/static/calendrier.pdf"><strong>Calendrier & Informations pratiques</strong> <em>(télécharger le document .pdf)</em></a>
+</div>
 
 **N'hésitez pas à nous contacter pour tout renseignement, consultation, et inscription.**  
 Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.
@@ -20,18 +24,6 @@ Au plaisir de vous rencontrer ou de vous accueillir pour grandir ensemble.
 	<p>Evelyne accompagne des personnes en jeûne depuis l'année 2000 : eau pure et repos total, suivi du demi-jeûne, en cure individuelle ou en groupe, pour des cures de toute durée et quelles que soient vos motivations personnelles, afin de venir à bout de toutes les difficultés.</p>
 </div>
 </div>
-
-<div class="presentation">
-<div id="marianne">
-	<h2>Marianne Speranza</h2>
-	<ul>
-		<li><strong>Téléphone : {{ site.telm }}</strong></li>
-		<li><strong>Courriel : {{ site.mailm }}</strong></li>
-	</ul>
-	<p>Hygiéniste, Marianne a suivi les formations de Thierry Casasnovas (hygiénisme, iridologie), de Désiré Mérien (santé hygiéniste), d'Evelyne Curt (accompagnement au jeûne), de Jade Allègre (argile et santé naturelle), d'Arnaud Tisserand (plasma marin).</p>
-</div>
-</div>
-
 
 
 >### Mentions légales

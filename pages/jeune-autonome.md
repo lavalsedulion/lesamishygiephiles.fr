@@ -10,7 +10,7 @@ permalink: /jeune-autonome.html
 ## Accompagnement par téléphone
 Vous aimeriez jeûner chez vous en autonomie, tout en étant accompagné ?  
 Toute l'année, nous pouvons vous proposer un suivi par téléphone (tarif convenu ensemble).  
-[Contactez-nous !](/contact.html)
+[Contactez-nous !](/calendrier-contact.html)
 
 ## Jeûnons ensemble !
 
