@@ -1,6 +1,6 @@
 /* VARIABLES ***********************************************************/
 
-$max_width: 800px;
+$max_width: 900px;
 @mixin mobile {@media screen and (max-width: $max_width) {@content;}}
 
 @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,900');

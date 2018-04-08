@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ page.title }} - {{ site.title }}</title>
 	<link rel="stylesheet" href="/style.css">
-	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<!--[if lt IE 9]><script src="/static/dev/html5shiv.js"></script><![endif]-->
 </head>
 <body>
 
@@ -28,9 +28,12 @@
 		{% if page.url == '/jeune-autonome.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
 			{% endif %}<a href="/jeune-autonome.html">Jeûne autonome</a></div>
-		{% if page.url == '/calendrier-contact.html' %}<div class="header-nav-active">
+		{% if page.url == '/calendrier.html' %}<div class="header-nav-active">
 			{% else %}<div class="header-nav-passive">
-			{% endif %}<a href="/calendrier-contact.html">Calendrier/Contact</a></div>
+			{% endif %}<a href="/calendrier.html">Calendrier</a></div>
+		{% if page.url == '/contact.html' %}<div class="header-nav-active">
+			{% else %}<div class="header-nav-passive">
+			{% endif %}<a href="/contact.html">Contact</a></div>
 	</nav>
 </header>
 
