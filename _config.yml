@@ -16,28 +16,44 @@ tele: "0<!--M-->7.8<!--M-->1.5<!--M-->8.5<!--M-->2.4<!--M-->7"
 newsletter: "https://tinyletter.com/lesamishygiephiles"
 
 # Github-pages
+github: [metadata]
+encoding: UTF-8
 kramdown:
   input: GFM
-  hard_wrap: false
-plugins:
-  - jekyll-coffeescript
-  - jekyll-paginate
-  - jekyll-sitemap
+  hard_wrap: true
+  gfm_quirks: paragraph_end
+  math_engine: mathjax
+  syntax_highlighter: rouge
+future: true
+jailed: false
 lsi: false
 safe: true
 incremental: false
 highlighter: rouge
 gist:
   noscript: false
-kramdown:
-  math_engine: mathjax
+plugins:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+theme: null
 
 
 # Build settings
+destination: ._site
 exclude:
-  - Gemfile
   - Gemfile.lock
-  - LICENSE
+  - LICENCE.md
   - README.md
 
 # SASS
